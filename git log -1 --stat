@@ -1,0 +1,24 @@
+[33mcommit b2a12678e0b006b02005c4e7922176d4df182ea6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Soham Halder <haldersoham@gmail.com>
+Date:   Tue Oct 13 17:57:18 2026 +0530
+
+    first commit
+
+ .gitignore                                         |   2 [32m+[m[31m-[m
+ package-lock.json                                  | 187 [32m++++++++++++++++++++[m[31m-[m
+ package.json                                       |   1 [32m+[m
+ ...dvertising Showreel for website and Youtube.mp4 | Bin [31m128733822[m -> [32m0[m bytes
+ src/components/layout/Navbar.jsx                   |  56 [32m++++[m[31m--[m
+ src/pages/about/AboutBanner.jsx                    |  18 [32m+[m[31m-[m
+ src/pages/about/AboutContact.jsx                   |  15 [32m+[m[31m-[m
+ src/pages/about/OurPeople.jsx                      |   7 [32m+[m[31m-[m
+ src/pages/about/OurStory.jsx                       |  13 [32m+[m[31m-[m
+ src/pages/about/OurValues.jsx                      |  23 [32m+[m[31m--[m
+ src/pages/contact/Contact.jsx                      |   4 [32m+[m[31m-[m
+ src/pages/homepage/About.jsx                       |  16 [32m+[m[31m-[m
+ src/pages/homepage/Banner.jsx                      | 100 [32m++++++++[m[31m---[m
+ src/pages/homepage/Contact.jsx                     |  15 [32m+[m[31m-[m
+ src/pages/homepage/Work.jsx                        |   6 [32m+[m[31m-[m
+ src/pages/work/WorkDetail.jsx                      |   6 [32m+[m[31m-[m
+ src/pages/work/WorkMain.jsx                        |   2 [32m+[m[31m-[m
+ 17 files changed, 373 insertions(+), 98 deletions(-)

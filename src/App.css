@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root {
+  --font-family: 'Outfit', sans-serif !important;
+}
+
+body {
+  font-family: 'Outfit', sans-serif !important;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
