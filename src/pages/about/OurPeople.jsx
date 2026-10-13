@@ -12,7 +12,7 @@ function OurPeople() {
           handle="javicodes"
           status="Online"
           contactText="Contact"
-          avatarUrl="src/assets/about/partha.png"
+          avatarUrl="/about/partha.png"
           iconUrl="/assets/demo/iconpattern.png"
           holo={0.8}
           glare={0.5}
@@ -32,7 +32,7 @@ function OurPeople() {
           handle="javicodes"
           status="Online"
           contactText="Contact"
-          avatarUrl="src/assets/about/partha.png"
+          avatarUrl="/about/partha.png"
           iconUrl="/assets/demo/iconpattern.png"
           holo={0.8}
           glare={0.5}

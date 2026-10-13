@@ -51,7 +51,7 @@ function Contact() {
         
       </div>
       <div className="w-full lg:w-1/2">
-        <img src="src/assets/mysterious-doorway-silhouette-stockcake.jpg" alt="" className={`${styles.animatedFloatLeft} ${isVisible ? styles.active : ''} w-full h-auto object-cover`} width={800}/>
+        <img src="/mysterious-doorway-silhouette-stockcake.jpg" alt="" className={`${styles.animatedFloatLeft} ${isVisible ? styles.active : ''} w-full h-auto object-cover`} width={800}/>
       </div>
     </div>
   );

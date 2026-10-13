@@ -15,7 +15,7 @@ function Banner() {
     >
       {/* Background Image */}
       <img
-        src="/src/assets/01_hero_portrait.jpg"
+        src="/01_hero_portrait.jpg"
         alt="Creative agency hero"
         className="absolute inset-0 w-full h-full object-cover object-center"
       />

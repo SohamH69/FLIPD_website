@@ -58,7 +58,7 @@ function OurValues() {
         </div>
       </div>
       <div className="w-full lg:w-1/2">
-        <img src="src/assets/about/ourValues.png" alt="" className="w-full h-auto object-cover" />
+        <img src="/about/ourValues.png" alt="" className="w-full h-auto object-cover" />
       </div>
     </div>
   );

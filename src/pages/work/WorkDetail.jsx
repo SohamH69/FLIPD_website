@@ -6,7 +6,7 @@ const project = {
   category: "Brand Campaign",
   year: "2026",
   client: "Lifestyle Brand",
-  hero: "src/assets/RCGC-Cover.webp",
+  hero: "/RCGC-Cover.webp",
   description:
     "A campaign about freedom, self-expression, and the confidence to be unapologetically yourself.",
   challenge:
@@ -14,8 +14,8 @@ const project = {
   idea:
     "We turned a simple product into a statement of self-expression. Bold visuals, a striking red palette, and an attitude that refuses to blend in.",
   images: [
-    "src/assets/RCGC-Cover.webp",
-    "src/assets/RCGC-Cover.webp",
+    "/RCGC-Cover.webp",
+    "/RCGC-Cover.webp",
   ],
 };
 

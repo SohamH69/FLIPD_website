@@ -7,7 +7,7 @@ function OurStory() {
   return (
     <div ref={sectionRef} className="flex flex-col md:flex-row items-center gap-8 md:gap-10 lg:gap-20 bg-[#0a0a0a] h-full">
       <div className="w-full md:w-1/2 h-full">
-        <img src="src/assets/about/section1.png" alt="" className="w-full h-full object-cover" />
+        <img src="/about/section1.png" alt="" className="w-full h-full object-cover" />
       </div>
       <div className="w-full md:w-1/2 px-5 sm:px-8 md:pl-0 md:pr-8 lg:pr-20 py-8 md:py-10 lg:py-0">
         <p

@@ -8,7 +8,7 @@ function AboutBanner() {
   return (
     <div ref={sectionRef} className="relative top-0 w-full">
       <img
-        src="src/assets/about/AboutBanner.png"
+        src="/about/AboutBanner.png"
         alt=""
         className="w-full h-[85vh] min-h-[500px] sm:h-screen sm:min-h-[600px] object-cover"
         style={{ objectFit: "cover" }}
