@@ -3,22 +3,22 @@ import LogoLoop from '../../components/ui/LogoLoop';
 function Partners() {
   const imageLogos = [
     {
-      src: "src/assets/partners/vayuPrana.webp",
+      src: "/partners/vayuPrana.webp",
       alt: "Vayu Prana",
       href: "https://company1.com",
     },
     {
-      src: "src/assets/partners/Tabillo.webp",
+      src: "/partners/Tabillo.webp",
       alt: "Company 2",
       href: "https://company2.com",
     },
     {
-      src: "src/assets/partners/MBSSP-logo-01-scaled.webp",
+      src: "/partners/MBSSP-logo-01-scaled.webp",
       alt: "Company 3",
       href: "https://company3.com",
     },
     {
-      src: "src/assets/partners/erde-logo-01-scaled.webp",
+      src: "/partners/erde-logo-01-scaled.webp",
       alt: "Company 3",
       href: "https://company3.com",
     },

@@ -32,7 +32,7 @@ function Navbar() {
       <div>
         <Link to="/">
           <img
-            src="src/assets/Flipd-logo-white.png"
+            src="/Flipd-logo-white.png"
             alt="logo"
             className="w-20 sm:w-30"
           />
